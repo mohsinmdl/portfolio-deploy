@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on MDL Blogs</title>
+    <link>https://mohsinmdl.com/blogs/tags/hugo/</link>
+    <description>Recent content in hugo on MDL Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 10 Apr 2020 01:49:08 +0500</lastBuildDate>
+    
+	<atom:link href="https://mohsinmdl.com/blogs/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up Hugo Site</title>
+      <link>https://mohsinmdl.com/blogs/posts/setting-up-hugo-site/</link>
+      <pubDate>Fri, 10 Apr 2020 01:49:08 +0500</pubDate>
+      
+      <guid>https://mohsinmdl.com/blogs/posts/setting-up-hugo-site/</guid>
+      <description>Download the latest release
+[link](https://github.com/gohugoio/hugo/releases) sudo dpkg -i &amp;lt;downloaded file name &amp;gt; Adding a new Project hugo new site mdlDocs Instaling them for Hugo git submodule add https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

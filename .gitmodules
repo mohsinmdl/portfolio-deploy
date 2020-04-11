@@ -1,3 +1,6 @@
 [submodule "blogs"]
 	path = blogs
 	url = https://github.com/mohsinmdl/blogs-deploy.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/mohsinmdl/mohsinmdl.github.io.git

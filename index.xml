@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <title>D3.js - A Java Script Library</title>
       <link>https://mohsinmdl.com/publications/alldaydevops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -49,9 +49,9 @@
     </item>
     
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <title>Data Analytics of Social Media Marketing</title>
       <link>https://mohsinmdl.com/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
       
       <guid>https://mohsinmdl.com/projects/creations/bosh-agents/</guid>
       <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>

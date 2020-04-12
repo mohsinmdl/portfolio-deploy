@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Resume Mohsin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 01:32:33 +0500</lastBuildDate>
     
 	<atom:link href="https://mohsinmdl.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://mohsinmdl.com/tags/data-science/</link>
+      <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
+      
+      <guid>https://mohsinmdl.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://mohsinmdl.com/tags/devops/</link>
+      <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
+      
+      <guid>https://mohsinmdl.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft PowerBI</title>
+      <link>https://mohsinmdl.com/tags/microsoft-powerbi/</link>
+      <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
+      
+      <guid>https://mohsinmdl.com/tags/microsoft-powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://mohsinmdl.com/tags/python/</link>
+      <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
+      
+      <guid>https://mohsinmdl.com/tags/python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Docker</title>
@@ -66,51 +102,6 @@
     </item>
     
     <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://mohsinmdl.com/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://mohsinmdl.com/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOSH</title>
-      <link>https://mohsinmdl.com/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://mohsinmdl.com/tags/bosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://mohsinmdl.com/tags/devops/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://mohsinmdl.com/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>monit</title>
-      <link>https://mohsinmdl.com/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://mohsinmdl.com/tags/monit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://mohsinmdl.com/tags/python/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://mohsinmdl.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>agile</title>
       <link>https://mohsinmdl.com/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
@@ -143,6 +134,15 @@
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://mohsinmdl.com/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D3.js</title>
+      <link>https://mohsinmdl.com/tags/d3.js/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohsinmdl.com/tags/d3.js/</guid>
       <description></description>
     </item>
     
@@ -210,7 +210,7 @@
     </item>
     
     <item>
-      <title>bash/shell</title>
+      <title>Bash/Shell</title>
       <link>https://mohsinmdl.com/tags/bash/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -278,15 +278,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mohsinmdl.com/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xml/xslt</title>
-      <link>https://mohsinmdl.com/tags/xml/xslt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohsinmdl.com/tags/xml/xslt/</guid>
       <description></description>
     </item>
     

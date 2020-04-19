@@ -6,19 +6,9 @@
     <description>Recent content in DevOps on Resume Mohsin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 01:32:33 +0500</lastBuildDate>
     
 	<atom:link href="https://mohsinmdl.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Data Analytics of Social Media Marketing</title>
-      <link>https://mohsinmdl.com/projects/creations/bosh-agents/</link>
-      <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
-      
-      <guid>https://mohsinmdl.com/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
-    </item>
     
     <item>
       <title>Atlassian Marketplace Plugins</title>

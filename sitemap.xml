@@ -43,12 +43,17 @@
   </url>
   
   <url>
-    <loc>https://mohsinmdl.com/tags/data-science/</loc>
+    <loc>https://mohsinmdl.com/tags/data-sciences/</loc>
     <lastmod>2020-04-13T01:32:33+05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mohsinmdl.com/tags/devops/</loc>
+    <loc>https://mohsinmdl.com/tags/django/</loc>
+    <lastmod>2020-04-13T01:32:33+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mohsinmdl.com/tags/machine-learning/</loc>
     <lastmod>2020-04-13T01:32:33+05:00</lastmod>
   </url>
   
@@ -200,6 +205,10 @@
   
   <url>
     <loc>https://mohsinmdl.com/tags/confluence/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mohsinmdl.com/tags/devops/</loc>
   </url>
   
   <url>

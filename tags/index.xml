@@ -12,20 +12,29 @@
     
     
     <item>
-      <title>Data Science</title>
-      <link>https://mohsinmdl.com/tags/data-science/</link>
+      <title>Data Sciences</title>
+      <link>https://mohsinmdl.com/tags/data-sciences/</link>
       <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
       
-      <guid>https://mohsinmdl.com/tags/data-science/</guid>
+      <guid>https://mohsinmdl.com/tags/data-sciences/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>https://mohsinmdl.com/tags/devops/</link>
+      <title>Django</title>
+      <link>https://mohsinmdl.com/tags/django/</link>
       <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
       
-      <guid>https://mohsinmdl.com/tags/devops/</guid>
+      <guid>https://mohsinmdl.com/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://mohsinmdl.com/tags/machine-learning/</link>
+      <pubDate>Mon, 13 Apr 2020 01:32:33 +0500</pubDate>
+      
+      <guid>https://mohsinmdl.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -242,6 +251,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mohsinmdl.com/tags/confluence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://mohsinmdl.com/tags/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohsinmdl.com/tags/devops/</guid>
       <description></description>
     </item>
     

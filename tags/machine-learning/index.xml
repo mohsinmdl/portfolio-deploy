@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Resume Mohsin</title>
-    <link>https://mohsinmdl.com/tags/python/</link>
-    <description>Recent content in Python on Resume Mohsin</description>
+    <title>Machine Learning on Resume Mohsin</title>
+    <link>https://mohsinmdl.com/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Resume Mohsin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Apr 2020 01:32:33 +0500</lastBuildDate>
     
-	<atom:link href="https://mohsinmdl.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohsinmdl.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://mohsinmdl.com/projects/creations/bosh-agents/</guid>
       <description>Social media is the most used application of the Internet. 90% of adults with internet access, use social media regularly. Facebook and Twitter are among the most trafficked websites on the Internet. This great amount of internet usage can be utilized to generate insights from the data. Social media data does not go purposeless; Facebook uses this data to generate insights from data and provide the information about the likes, comments and shares of posts and other content on a page.</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://mohsinmdl.com/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mohsinmdl.com/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
     </item>
     
   </channel>
